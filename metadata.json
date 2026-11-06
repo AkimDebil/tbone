@@ -1,0 +1,6 @@
+{
+  "name": "Virtuoso Practice Hub",
+  "description": "Practice routine studio with metronome and AI repertoire guide with clickable listening links for classical musicians.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
